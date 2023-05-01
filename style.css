@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+.centered-list {
+    text-align: center;
+    list-style: inside;
+}
+
+.centered-list.ingredients {
+    color: red;
+    font-size: 25px;
+}
+
+.centered-list.steps {
+    color: purple;
+    font-size: 12px;
+}
+
+p.description {
+    text-align: left;
+}
